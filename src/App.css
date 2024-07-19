@@ -1,0 +1,114 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.con{
+  height: 400px;
+  width: 300px;
+  background-color: #fff;
+  margin-top: 200px;
+  border-radius: 10px;
+  padding: 20px;
+  
+
+}
+.heading{
+  position: relative;
+  left: 130px;
+  
+}
+.google button{
+  height: 30px;
+  width: 220px;
+  border: 1px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.google img{
+  position: relative;
+  left: 20px;
+  top:0px
+}
+.facebook button{
+  height: 30px;
+  width: 220px;
+  border: 1px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.facebook img{
+  position: relative;
+  left: 20px;
+  top:0px
+}
+.box{
+  position: relative;
+  left:30px;
+}
+.box{
+  padding: 10px;
+  width: 200px;
+}
+.inside{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.inside p{
+  font-size: 15px;
+}
+.box span{
+  display: block;
+  position: relative;
+  left: 90px;
+  bottom: 15px;
+  background-color: #fff;
+  width: 15px;
+  margin: 10px;
+  font-size: 16px;
+}
+.box form input{
+  height: 25px;
+  width: 220px;
+  padding: 5px;
+  position: relative;
+  bottom: 10px;
+}
+.next button{
+  height: 30px;
+  width: 220px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: black;
+  color: #fff;
+  position: relative;
+  left: 5px;
+  cursor: pointer;
+  bottom: 10px;
+
+}
+.forget button{
+  height: 28px;
+  width: 220px;
+  border: 1px solid black;
+  border-radius: 15px;
+  position: relative;
+  bottom: 20px;
+ 
+  
+  position: relative;
+  left: 5px;
+  cursor: pointer;
+}
+.signup p{
+  font-size: 12.5px;
+  position: relative;
+  left: 30px;
+}
+.signup p a{
+  text-decoration: underline;
+  font-weight: bold;
+  cursor: pointer;
+
+}
